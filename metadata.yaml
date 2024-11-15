@@ -1,11 +1,16 @@
 _repo: Der-Weg-nach-Heilisoe_74665
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74665-h/images/cover_001.jpg
 creator:
   author:
     agent_name: Steinmüller, Paul
     gutenberg_agent_id: '57593'
     url: http://www.gutenberg.org/2009/agents/57593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74665#Der-Weg-nach-Heilisoe
 gutenberg_issued: '2024-11-01'
 gutenberg_type: Text
 identifiers:
